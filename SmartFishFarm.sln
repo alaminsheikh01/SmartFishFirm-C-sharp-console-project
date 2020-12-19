@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFishFarm", "SmartFishFarm.csproj", "{A50E9D8E-21EC-46C2-9022-87DF1932DA60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "..\Demo\Demo.csproj", "{9C3144BF-B25B-4C22-B6D7-0DBC50CDE9BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A50E9D8E-21EC-46C2-9022-87DF1932DA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50E9D8E-21EC-46C2-9022-87DF1932DA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50E9D8E-21EC-46C2-9022-87DF1932DA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50E9D8E-21EC-46C2-9022-87DF1932DA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3144BF-B25B-4C22-B6D7-0DBC50CDE9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3144BF-B25B-4C22-B6D7-0DBC50CDE9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3144BF-B25B-4C22-B6D7-0DBC50CDE9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3144BF-B25B-4C22-B6D7-0DBC50CDE9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A395F4B0-F30D-4367-AEDE-B74A3FEF23A5}
+	EndGlobalSection
+EndGlobal

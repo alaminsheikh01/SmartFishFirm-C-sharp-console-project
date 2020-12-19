@@ -1,0 +1,13 @@
+E:\Users\alami\source\repos\SmartFishFarm\obj\Debug\netcoreapp3.1\SmartFishFarm.csprojAssemblyReference.cache
+E:\Users\alami\source\repos\SmartFishFarm\obj\Debug\netcoreapp3.1\SmartFishFarm.AssemblyInfoInputs.cache
+E:\Users\alami\source\repos\SmartFishFarm\obj\Debug\netcoreapp3.1\SmartFishFarm.AssemblyInfo.cs
+E:\Users\alami\source\repos\SmartFishFarm\obj\Debug\netcoreapp3.1\SmartFishFarm.csproj.CoreCompileInputs.cache
+E:\Users\alami\source\repos\SmartFishFarm\bin\Debug\netcoreapp3.1\SmartFishFarm.exe
+E:\Users\alami\source\repos\SmartFishFarm\bin\Debug\netcoreapp3.1\SmartFishFarm.deps.json
+E:\Users\alami\source\repos\SmartFishFarm\bin\Debug\netcoreapp3.1\SmartFishFarm.runtimeconfig.json
+E:\Users\alami\source\repos\SmartFishFarm\bin\Debug\netcoreapp3.1\SmartFishFarm.runtimeconfig.dev.json
+E:\Users\alami\source\repos\SmartFishFarm\bin\Debug\netcoreapp3.1\SmartFishFarm.dll
+E:\Users\alami\source\repos\SmartFishFarm\bin\Debug\netcoreapp3.1\SmartFishFarm.pdb
+E:\Users\alami\source\repos\SmartFishFarm\obj\Debug\netcoreapp3.1\SmartFishFarm.dll
+E:\Users\alami\source\repos\SmartFishFarm\obj\Debug\netcoreapp3.1\SmartFishFarm.pdb
+E:\Users\alami\source\repos\SmartFishFarm\obj\Debug\netcoreapp3.1\SmartFishFarm.genruntimeconfig.cache
